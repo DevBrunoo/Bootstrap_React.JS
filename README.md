@@ -10,7 +10,7 @@
 
  
 ```code
-$ moon cd
+$ cd lunar
 ```
   
 <li>Just after that write and run in the terminal <b>npm start</b></li>
