@@ -1,4 +1,4 @@
-<h1>Using bootstrap with react</h1>
+<h1>Charity project made entirely from Bootstrap and React.JSt</h1>
 <link rel="stylesheet" href="https://img.shields.io/badge/React.JS-%5E18.2.0-blue">
 <br>
 # Getting started with Create React App
