@@ -11,8 +11,8 @@ import { Navbar,
 }  
 from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../src/font.css'
-
+import '../src/font.css';
+import '../src/footer'
 
 function App() {
   return (
@@ -113,13 +113,6 @@ layer of the application. It is maintained by Facebook.
   </Row>
 </Container>
 </main>
-<footer class="py-5 my-5 bg-dark">
-<Container className="px-4">
-  <p class="text-center text-white">
-    Copyright &copy; Your Website 2022
-  </p>
-</Container>
-</footer>
     </div>
   );
 }
