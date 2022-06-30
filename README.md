@@ -18,4 +18,4 @@ After cloning the project in your text editor, open the terminal terminal and ru
 ### `yarn start`
 
 
-After executing the above commands in your browser, open it in your browser with the following url "http://localhost:3000/"
+After executing the above commands in your browser, open it in your browser with the following url: "http://localhost:3000/"
