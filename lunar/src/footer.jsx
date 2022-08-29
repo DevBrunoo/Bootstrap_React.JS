@@ -61,4 +61,4 @@ function Footer() {
 }
 
 // eslint-disable-next-line no-undef
-export default footer;
+export default Footer;

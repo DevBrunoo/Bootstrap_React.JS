@@ -12,7 +12,7 @@ import { Navbar,
 from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../src/font.css';
-import '../src/footer'
+import '../src/Footer'
 
 function App() {
   return (
