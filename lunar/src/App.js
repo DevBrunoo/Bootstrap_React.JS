@@ -113,6 +113,7 @@ layer of the application. It is maintained by Facebook.
   </Row>
 </Container>
 </main>
+<hr></hr>
     </div>
   );
 }
