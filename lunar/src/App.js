@@ -65,6 +65,8 @@ productive React developer in a few hours.
 ReactJS is an open-source, component-based front-end 
 library responsible only for the view 
 layer of the application. It is maintained by Facebook.  
+
+Better than donating through this site, and you make the donation personally in Judaism we call it Tsedaká charity, you have full right to know where your money is being spent, many institutions just want money and don't do charity but manipulative business, so if you are not going to donate to us, buy things at the market and give it to the poor, you will feel a thousand times better than just making a transfer to an institution.
   </Card.Body>
 </Card>
   </Row>
