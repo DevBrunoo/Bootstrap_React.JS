@@ -20,14 +20,15 @@ function App() {
       <header>
       <Navbar bg="dark" variant="dark">
   <Container>
-    <Navbar.Brand className='TextHome' href="#home">Lunar</Navbar.Brand>
+    <Navbar.Brand className='TextHome' class="textumm" id="textoum" href="#home">Lunar</Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="me-auto">
-        <Nav.Link href="#home">About-Us</Nav.Link>
+        <br></br>
+        <Nav.Link href="#home"> &nbsp; &nbsp; About-Us</Nav.Link>
         <Nav.Link href="#link">blog</Nav.Link>
         <NavDropdown title="Smiles" id="basic-nav-dropdown">
-          <NavDropdown.Item href="#action/3.1">Actions against bullying</NavDropdown.Item>
+          <NavDropdown.Item href="#action/3.1">cActions against bullying</NavDropdown.Item>
           <NavDropdown.Item href="#action/3.2">Actions against child abuse</NavDropdown.Item>
           <NavDropdown.Item href="#action/3.3">Actions against hunger</NavDropdown.Item>
           <NavDropdown.Divider />
